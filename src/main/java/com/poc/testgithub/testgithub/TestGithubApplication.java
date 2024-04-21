@@ -11,6 +11,8 @@ public class TestGithubApplication {
 		SpringApplication.run(TestGithubApplication.class, args);
 		System.out.println("Testing");
 		System.out.println("Testing2");
+			System.out.println("Testing3 pull testing3");
+		
 
 	}
 
